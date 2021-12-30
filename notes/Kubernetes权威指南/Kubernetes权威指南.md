@@ -11,8 +11,8 @@
    2. 拥有唯一指定的名称（比如mysql-server）
    3. 拥有一个虚拟IP（Cluster IP、Service IP或VIP）和端口号
    4. 能够提供某种远程服务能力。◎ 被映射到提供这种服务能力的一组容器应用上
-   5. 
-4. 
+
+
 
 #### 资源对象
 
@@ -27,11 +27,15 @@
    3. Docker Engine（docker）：Docker引擎，负责本机的容器创建和管理工作。
 3. 
 
+
+
 ### 容器编排
 
 1. Swarm
 2. Mesos
 3. Kubernetes
+
+
 
 #### docker 管理
 
